@@ -1,0 +1,16 @@
+[
+{
+"relation": ["delegate_permission/common.get_login_creds"],
+"target": {
+"namespace": "web",
+"site": "https://ebanq.com"
+}
+},
+{
+"relation": ["delegate_permission/common.get_login_creds"],
+"target": {
+"namespace": "web",
+"site": "https://ebanqcoin.com"
+}
+}
+]
